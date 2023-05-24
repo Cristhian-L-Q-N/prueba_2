@@ -1,0 +1,26 @@
+[
+    {
+        "platos": "Platos",
+        "cvendida": "Cantidad Vendida",
+        "crestante": "Cantidad Restante",
+        "precio": "Precio"
+    },
+    {
+        "platos": "Papas Fritas",
+        "cvendida": "30",
+        "crestante": "12",
+        "precio": "Bs 7"
+    },
+    {
+        "platos": "Papas Fritas",
+        "cvendida": "30",
+        "crestante": "12",
+        "precio": "Bs 7"
+    },
+    {
+        "platos": "Papas Fritas",
+        "cvendida": "30",
+        "crestante": "12",
+        "precio": "Bs 7"
+    }
+]

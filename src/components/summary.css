@@ -1,0 +1,27 @@
+.ContainerSummary {
+    background-color: bisque;
+    margin-top: 10px;
+    padding: 20px;
+    margin-left: 30px;
+    text-align: center;
+    width: 250px;
+}
+
+.ContainerSummary .NameSummary {
+    margin-top: 0px;
+    margin-left: -60px;
+}
+
+.ContainerSummary .IconS {
+    margin-top: -13px;
+    font-size: 30px;
+}
+
+.ContainerSummary .D1 {
+    margin-top: 0px;
+}
+
+.ContainerSummary .D2 {
+    margin-top: -15px;
+    margin-bottom: 0px;
+}

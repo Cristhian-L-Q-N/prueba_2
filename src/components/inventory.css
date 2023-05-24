@@ -1,0 +1,59 @@
+.Inventory {
+    background-color: aquamarine;
+    margin: 0px;
+    padding: 5px;
+    margin-left: 30px;
+    margin-top: 10px;
+    padding-bottom: 15px;
+}
+
+.Inventory .p1 {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 0px;
+}
+
+.Inventory .p2 {
+    font-size: 12px;
+    font-weight: 600;
+    padding-top: 5px;
+    margin: 0px;
+    margin-left: 25px;
+}
+
+.Inventory .TextsInventory {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.Inventory .Image {
+    width: 50px;
+}
+
+
+.Inventory .Foods {
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Inventory .Foods .Details h4 {
+    margin: 0;
+    margin-left: 15px;
+
+}
+
+.Inventory .Foods .Details h5 {
+    margin: 0;
+    margin-left: 15px;
+}
+
+.Inventory .Foods .Nivel {
+    margin: 0;
+    margin-left: 15px;
+    background-color: brown;
+    padding: 5px;
+    border-radius: 10px;
+}

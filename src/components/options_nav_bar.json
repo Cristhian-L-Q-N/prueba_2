@@ -1,0 +1,34 @@
+[
+    {
+        "option": "Dashboard",
+        "icon": "AiOutlineHome"
+    },
+    {
+        "option": "Menu del dia",
+        "icon": "AiOutlineShop"
+    },
+    {
+        "option": "Platos",
+        "icon": "AiOutlineShoppingCart"
+    },
+    {
+        "option": "Ingredientes",
+        "icon": "AiOutlineShopping"
+    },
+    {
+        "option": "Reportes",
+        "icon": "AiOutlineAreaChart"
+    },
+    {
+        "option": "Proveedores",
+        "icon": "AiOutlineContacts"
+    },
+    {
+        "option": "Ordenes",
+        "icon": "AiOutlineSisternode"
+    },
+    {
+        "option": "Cerrar Sesion",
+        "icon": "AiOutlinePoweroff"
+    }
+]

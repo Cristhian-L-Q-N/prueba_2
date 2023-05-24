@@ -1,0 +1,45 @@
+.Container {
+
+    height: 960;
+    width: 280;
+    display: inline-block;
+    padding: 20px;
+    background-color: aquamarine;
+    margin-left: 20px;
+}
+
+.Container h1 {
+    color: #F79009;
+    font-weight: 100;
+    font-size: 25px;
+    background-color: aliceblue;
+    margin-bottom: 50px;
+}
+
+.ContainerOption {
+    display: flex;
+    align-items: center;
+    padding-left: 16px;
+    padding-right: 16px;
+    background-color: aliceblue;
+    border: none;
+
+}
+
+.ContainerOption.modified {
+    margin-top: 50px;
+}
+
+.ContainerOption .Icon {
+    margin-top: -3px;
+    font-size: 18px;
+    color: #F79009;
+}
+
+
+.ContainerOption .Option {
+    font-size: 18px;
+    margin-left: 15px;
+    font-weight: lighter;
+    color: #667085;
+}

@@ -1,0 +1,20 @@
+[
+    {
+        "img": "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/64941/hamburger-clipart-md.png",
+        "name": "hamburgusa",
+        "cantidad": "10",
+        "nivel": "Bajo"
+    },
+    {
+        "img": "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/64941/hamburger-clipart-md.png",
+        "name": "soda",
+        "cantidad": "15",
+        "nivel": "Bajo"
+    },
+    {
+        "img": "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/64941/hamburger-clipart-md.png",
+        "name": "aguitadecoco",
+        "cantidad": "12",
+        "nivel": "Bajo"
+    }
+]

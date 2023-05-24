@@ -1,0 +1,33 @@
+.SectionPlatos {
+    background-color: bisque;
+    margin-left: 50PX;
+    margin-top: 15px;
+    padding: 10px;
+}
+
+.SectionPlatos .TextsPlatos {
+    display: flex;
+    align-items: center;
+    padding-bottom: 13px;
+    padding-top: 5px;
+}
+
+.SectionPlatos .TextsPlatos h4 {
+    margin: 0px;
+    font-size: 20px;
+}
+
+.SectionPlatos .TextsPlatos h5 {
+    display: flex;
+    margin: 0px;
+    font-size: 10px;
+    margin-left: 430px;
+}
+
+.SectionPlatos .PlatosSection {
+    display: flex;
+    justify-content: space-between;
+    margin-top: -18px;
+    margin-bottom: -18px;
+
+}

@@ -1,0 +1,36 @@
+.ContainerSearch {
+    background-color: blueviolet;
+    height: 30px;
+    padding: 5px;
+    padding-left: 15px;
+    margin: 15px;
+    display: flex;
+    margin-left: 50PX;
+    align-items: center;
+    border: 2px solid #333;
+    border-radius: 10px;
+}
+
+.ContainerSearch .Icon {
+    font-size: 16px;
+}
+
+.ContainerSearch .InputField {
+    padding-left: 15px;
+    font-size: 20px;
+    border: none;
+    background-color: transparent;
+    color: #000;
+    width: 900px;
+
+}
+
+.InputField:focus {
+    outline: none;
+}
+
+.InputField::placeholder {
+    font-size: 14px;
+    color: #667085;
+    transform: translateY(-2px);
+}
